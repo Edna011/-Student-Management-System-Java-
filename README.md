@@ -2,7 +2,7 @@
 #Overview
 The Student Management System is a simple yet powerful Java application designed to manage students, their course enrollments, and GPA calculations efficiently.
 
-✅ Add Students: Easily register students in the system.
+✅ Add Students: Easily register students in the system. <br>
 ✅ Enroll in Courses: Assign courses with credit hours and grades.
 ✅ GPA Calculation: Automatically compute GPA based on enrolled courses and grades.
 
