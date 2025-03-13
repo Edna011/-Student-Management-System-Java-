@@ -7,12 +7,12 @@ The Student Management System is a simple yet powerful Java application designed
 ✅ GPA Calculation: Automatically compute GPA based on enrolled courses and grades.<br>
 
 # Features
-Student Management: Store and manage student details, including ID, name, age, and enrolled courses.<br>
-Course Management: Add courses with unique IDs, names, credit hours, and letter grades.<br>
-Automated GPA Calculation: Uses a weighted formula to compute the student's GPA based on enrolled courses.<br>
-Object-Oriented Design: Implements core OOP principles like encapsulation and inheritance.<br>
-User-Friendly Interaction: Displays student details, enrolled courses, and GPA calculations in a structured format.<br>
+✅ Student Management: Store and manage student details, including ID, name, age, and enrolled courses.<br>
+✅ Course Management: Add courses with unique IDs, names, credit hours, and letter grades.<br>
+✅ Automated GPA Calculation: Uses a weighted formula to compute the student's GPA based on enrolled courses.<br>
+✅ Object-Oriented Design: Implements core OOP principles like encapsulation and inheritance.<br>
+✅ User-Friendly Interaction: Displays student details, enrolled courses, and GPA calculations in a structured format.<br>
 
 # Tech Stack<br>
-Programming Language: Java<br>
-Concepts Used: Object-Oriented Programming (OOP), Data Structures (ArrayLists), and Exception Handling<br>
+✅ Programming Language: Java<br>
+✅ Concepts Used: Object-Oriented Programming (OOP), Data Structures (ArrayLists), and Exception Handling<br>
