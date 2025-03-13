@@ -1,6 +1,6 @@
 # Student-Management-System-Java-
 # Overview<br>
-The Student Management System is a simple yet powerful Java application designed to manage students, their course enrollments, and GPA calculations efficiently.
+The Student Management System is a simple yet powerful Java application designed to manage students, their course enrollments, and GPA calculations efficiently.<br>
 
 ✅ Add Students: Easily register students in the system. <br>
 ✅ Enroll in Courses: Assign courses with credit hours and grades.<br>
@@ -19,7 +19,7 @@ The Student Management System is a simple yet powerful Java application designed
 
 # How to Run
 ✅ Clone the repository:<br>
-✅ git clone https://github.com/Edna011/Student-Management-System-Java.git<br>
+✅ git clone https://github.com/Edna011/-Student-Management-System-Java.git<br>
 ✅ Compile the Java files:<br>
 ✅ javac StudentManagementSystem.java<br>
 ✅ Run the program:<br>
