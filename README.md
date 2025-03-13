@@ -18,18 +18,9 @@ The Student Management System is a simple yet powerful Java application designed
 ✅ Concepts Used: Object-Oriented Programming (OOP), Data Structures (ArrayLists), and Exception Handling<br>
 
 # How to Run
-Clone the repository:
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/Student-Management-System-Java.git
-Compile the Java files:
-sh
-Copy
-Edit
-javac StudentManagementSystem.java
-Run the program:
-sh
-Copy
-Edit
-java StudentManagementSystem
+Clone the repository:<br>
+git clone https://github.com/Edna011/Student-Management-System-Java.git<br>
+Compile the Java files:<br>
+javac StudentManagementSystem.java<br>
+Run the program:<br>
+java StudentManagementSystem<br>
